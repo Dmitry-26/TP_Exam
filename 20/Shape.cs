@@ -1,9 +1,10 @@
+using System;
 
 namespace App {
-    abstract class Shape {
-        public void draw() {}
-        public void erace() {}
-        public void move() {}
-        public void rotate() {}
+    public class Shape {
+        public virtual void draw() {}
+        public virtual void erace() {}
+        public virtual void move() {}
+        public virtual void rotate() {}
     }
 }
