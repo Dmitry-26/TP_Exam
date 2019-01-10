@@ -4,6 +4,7 @@ using System;
 namespace App {
     class Program {
         public static void Main(string[] args)  {
+            Square sq = new Square();
         }
     }
 }
