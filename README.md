@@ -1,0 +1,1 @@
+[Записывайте свои билеты и меняйте цвет на зеленый если выполнили сюда](https://docs.google.com/spreadsheets/d/1WMU5uU6fHGk2rVgWFdDnRv897i23cAPv_r6yd5cfirs/edit?usp=sharing)
